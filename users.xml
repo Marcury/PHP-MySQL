@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <passwd>admin</passwd>
+        <fullname>Administrator</fullname>
+        <email>admin@gmail.com</email>
+        <date>01-11-201</date>
+        <status>2</status>        
+    </user>
+    <user>
+        <username>beatap</username>
+        <passwd>beatap</passwd>
+        <fullname>Beata P.</fullname>
+        <email>beatap@gmail.com</email>
+        <date>01-11-2015</date>
+        <status>1</status>        
+    </user>
+    <user>
+        <username>nazwa17</username>
+        <passwd>safdfasdfsad</passwd>
+        <fullname>ĆŻĘÓŁ</fullname>
+        <email>email5@email.pl</email>
+        <date>2016-11-14</date>
+        <status>1</status>
+    </user>
+</users>
